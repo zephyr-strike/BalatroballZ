@@ -1,5 +1,5 @@
 # BalatroballZ
-A kinda crappy, kinda unbalanced Dragonball content mod for Balatro.
+A kinda unbalanced Dragonball content mod for Balatro.
 
 Current additions:
 - 20 Common Jokers
