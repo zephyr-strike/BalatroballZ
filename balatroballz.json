@@ -1,0 +1,17 @@
+{
+  "id": "balatroballz",
+  "name": "Balatroball Z",
+  "author": [
+    "zephyrstrike"
+  ],
+  "description": "A kinda crappy, kinda unbalanced Dragonball content mod for Balatro.",
+  "prefix": "dbz",
+  "main_file": "main.lua",
+  "version": "1.0.0",
+  "priority": 0,
+  "badge_colour": "e76a24",
+  "badge_text_colour": "FFFFFF",
+  "dependencies": [
+    "Steamodded (>=1.0.0~BETA-0827c)"
+  ]
+}
